@@ -1,5 +1,5 @@
 # UMDCTF-2018-Challenges - (Work In Progress)
-A selection of challenges from UMDCTF 2018. UMDCTF was a 6-hour, on-site CTF held April 14th, 2018.
+A selection of challenges from UMDCTF 2018. UMDCTF 2018 was a 6-hour, on-site CTF held April 14th, 2018.
 
 # Work in Progress
 
