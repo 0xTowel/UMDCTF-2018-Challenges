@@ -17,6 +17,7 @@ Not every challenge from the CTF is included here, as some required on-site part
   * [Towel](https://www.twitter.com/0xTowel)
   * [jsfleming](https://jsfleming.github.io)
   * [yossarian](https://github.com/woodruffw)
+  * [Lumpus](https://github.com/1umpus)
 
 # Reuse
 Feel free to use these challenges to help learn and teach others; just provide attribution. 
