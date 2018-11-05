@@ -4,4 +4,3 @@ can you figure out a way to decrypt the flag?
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 50

@@ -4,5 +4,4 @@ Can you help me out and get my flag? I was told it's not actually that scary, bu
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 80
 

@@ -4,4 +4,3 @@ Can you figure out what it does?
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 30

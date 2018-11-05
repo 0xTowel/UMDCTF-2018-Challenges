@@ -3,4 +3,3 @@ Someone was trying to make a hard challenge but goofed! Now it is EzPz, can you 
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 10

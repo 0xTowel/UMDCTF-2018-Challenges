@@ -3,5 +3,4 @@ Artists are sending each other their works, but I suspect a secret message. Extr
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 20
 

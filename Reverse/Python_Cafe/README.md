@@ -5,5 +5,4 @@ Find the password.
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 40
 

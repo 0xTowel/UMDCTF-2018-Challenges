@@ -6,5 +6,4 @@ Figure out what they are saying.
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 25
 

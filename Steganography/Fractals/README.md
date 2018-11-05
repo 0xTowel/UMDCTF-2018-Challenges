@@ -3,5 +3,4 @@ This picture of some fractals seems innocent enough, but I know there is more to
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 35
 

@@ -6,4 +6,3 @@ get a flag!
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 30

@@ -4,5 +4,4 @@ Can you realize his mistake and get my flag back?
 
 * `Author` -- Towel
 * `Flag` -- 
-* `Points` -- 50
 
